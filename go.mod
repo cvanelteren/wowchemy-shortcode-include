@@ -1,5 +1,4 @@
-module github.com/wowchemy/wowchemy-shortcode-starter
+module github.com/cvanelteren/wowchemy-shortcode-include
 
 go 1.15
 
-module github.com/cvanelteren/wowchemy-shortcode-include
